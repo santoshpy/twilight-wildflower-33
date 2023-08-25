@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.4.0",
+    "cookiecutter_context": {
+      "project_name": "Twilight Wildflower",
+      "project_slug": "twilight_wildflower_33",
+      "project_dash_slug": "twilight-wildflower-33",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "enterprise_group@cb-dev.com",
+      "ssh_key_fingerprint": ""
+    }
+  }
+}
